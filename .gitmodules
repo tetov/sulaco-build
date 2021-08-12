@@ -1,0 +1,93 @@
+[submodule "aur-out-of-date"]
+	path = aur-out-of-date
+	url = https://aur.archlinux.org/aur-out-of-date
+[submodule "bfg"]
+	path = bfg
+	url = https://aur.archlinux.org/bfg
+[submodule "caddy-cloudflare"]
+	path = caddy-cloudflare
+	url = https://aur.archlinux.org/caddy-cloudflare
+[submodule "dracut-hook"]
+	path = dracut-hook
+	url = https://aur.archlinux.org/dracut-hook
+[submodule "etckeeper-packages"]
+	path = etckeeper-packages
+	url = https://aur.archlinux.org/etckeeper-packages
+[submodule "flood-git"]
+	path = flood-git
+	url = https://aur.archlinux.org/flood-git
+[submodule "fritzing"]
+	path = fritzing
+	url = https://aur.archlinux.org/fritzing
+[submodule "limnoria"]
+	path = limnoria
+	url = https://aur.archlinux.org/limnoria
+[submodule "mongodb-bin"]
+	path = mongodb-bin
+	url = https://aur.archlinux.org/mongodb-bin
+[submodule "mongodb-tools-bin"]
+	path = mongodb-tools-bin
+	url = https://aur.archlinux.org/mongodb-tools-bin
+[submodule "neovim-nightly-bin"]
+	path = neovim-nightly-bin
+	url = https://aur.archlinux.org/neovim-nightly-bin
+[submodule "nodejs-nodemon"]
+	path = nodejs-nodemon
+	url = https://aur.archlinux.org/nodejs-nodemon
+[submodule "nvm"]
+	path = nvm
+	url = https://aur.archlinux.org/nvm
+[submodule "pacman-cleanup-hook"]
+	path = pacman-cleanup-hook
+	url = https://aur.archlinux.org/pacman-cleanup-hook
+[submodule "python37"]
+	path = python37
+	url = https://aur.archlinux.org/python37
+[submodule "python38"]
+	path = python38
+	url = https://aur.archlinux.org/python38
+[submodule "python-charade"]
+	path = python-charade
+	url = https://aur.archlinux.org/python-charade
+[submodule "python-commitizen"]
+	path = python-commitizen
+	url = https://aur.archlinux.org/python-commitizen
+[submodule "python-decli"]
+	path = python-decli
+	url = https://aur.archlinux.org/python-decli
+[submodule "python-questionary"]
+	path = python-questionary
+	url = https://aur.archlinux.org/python-questionary
+[submodule "python-vcstool"]
+	path = python-vcstool
+	url = https://aur.archlinux.org/python-vcstool
+[submodule "reflector-mirrorlist-update"]
+	path = reflector-mirrorlist-update
+	url = https://aur.archlinux.org/reflector-mirrorlist-update
+[submodule "roll"]
+	path = roll
+	url = https://aur.archlinux.org/roll
+[submodule "shyaml"]
+	path = shyaml
+	url = https://aur.archlinux.org/shyaml
+[submodule "trizen"]
+	path = trizen
+	url = https://aur.archlinux.org/trizen
+[submodule "visidata"]
+	path = visidata
+	url = https://aur.archlinux.org/visidata
+[submodule "watchman-bin"]
+	path = watchman-bin
+	url = https://aur.archlinux.org/watchman-bin
+[submodule "xcaddy-bin"]
+	path = xcaddy-bin
+	url = https://aur.archlinux.org/xcaddy-bin
+[submodule "znc-palaver"]
+	path = znc-palaver
+	url = https://aur.archlinux.org/znc-palaver
+[submodule "subsystemctl"]
+	path = subsystemctl
+	url = https://aur.archlinux.org/subsystemctl.git
+[submodule "repoctl"]
+	path = repoctl
+	url = https://aur.archlinux.org/repoctl.git
