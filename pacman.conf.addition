@@ -1,0 +1,3 @@
+[sulaco]
+SigLevel = Optional TrustAll
+Server = https://pkg-repo.tetov.xyz
