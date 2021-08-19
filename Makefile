@@ -11,9 +11,6 @@ $(PKGS):
 check-outdated:
 	repoctl status -a
 
-clean:
-	git submodule foreach 'git clean -xffd'
-
 chroot: pacman.conf
 	mkdir -p $(CHROOT)
 	mkarchroot -C pacman.conf $(CHROOT)/root base-devel
@@ -30,4 +27,9 @@ sign-all-and-update:
 		-exec sh -c "test -e {}.sig || gpg -v --detach-sign --no-armor {}" \;
 	repoctl update
 
-.PHONY: $(PKGS) sign-all check-outdated clean chroot pacman.conf pull sign-all-and-update
+all:
+clean:
+	git submodule foreach 'git clean -xffd'
+test:
+
+.PHONY: $(PKGS) sign-all check-outdated clean chroot pacman.conf pull sign-all-and-update all clean test
