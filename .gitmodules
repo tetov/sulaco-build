@@ -91,3 +91,6 @@
 [submodule "repoctl"]
 	path = repoctl
 	url = https://aur.archlinux.org/repoctl.git
+[submodule "checkmake"]
+	path = checkmake
+	url = https://aur.archlinux.org/checkmake.git
