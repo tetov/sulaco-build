@@ -5,14 +5,8 @@ PKG-REPO=/srv/http/pkg-repo
 
 PKGS := ${subst /,,${dir ${wildcard */PKGBUILD}}}
 
-_pkg_files := ${wildcard $(PKG-REPO)/*.pkg.tar.zst}
-SIG-FILES := ${addsuffix .sig,$(_pkg_files)}
-
 $(PKGS):
 	cd $@ && makechrootpkg -c -r /home/tetov/chroot -l $@ -- PACKAGER=$(PACKAGER)
-
-%.sig: %
-	gpg -v --detach-sign --no-armor $@
 
 check-outdated:
 	repoctl status -a
@@ -30,7 +24,6 @@ pacman.conf:
 
 pull:
 	git submodule update --remote
-
 
 sign-all-and-update:
 	find $(PKG-REPO) -iname "*.pkg.tar.zst" \
