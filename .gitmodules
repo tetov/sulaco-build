@@ -106,3 +106,6 @@
 [submodule "yay"]
 	path = yay
 	url = https://aur.archlinux.org/yay.git
+[submodule "ogre-1.9"]
+	path = ogre-1.9
+	url = https://aur.archlinux.org/ogre-1.9.git
