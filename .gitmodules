@@ -97,3 +97,9 @@
 [submodule "preloader-signed"]
 	path = preloader-signed
 	url = https://aur.archlinux.org/preloader-signed.git
+[submodule "1password"]
+	path = 1password
+	url = https://aur.archlinux.org/1password
+[submodule "ros-build-tools"]
+	path = ros-build-tools
+	url = https://aur.archlinux.org/ros-build-tools
