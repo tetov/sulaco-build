@@ -94,3 +94,6 @@
 [submodule "checkmake"]
 	path = checkmake
 	url = https://aur.archlinux.org/checkmake.git
+[submodule "preloader-signed"]
+	path = preloader-signed
+	url = https://aur.archlinux.org/preloader-signed.git
