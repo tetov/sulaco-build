@@ -112,3 +112,6 @@
 [submodule "orocos-kdl"]
 	path = orocos-kdl
 	url = https://aur.archlinux.org/orocos-kdl
+[submodule "python-catkin_pkg"]
+	path = python-catkin_pkg
+	url = https://aur.archlinux.org/python-catkin_pkg.git
