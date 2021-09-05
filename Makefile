@@ -8,6 +8,10 @@ PKGS := ${subst /,,${dir ${wildcard */PKGBUILD}}}
 $(PKGS):
 	cd $@ && makechrootpkg -c -r /home/tetov/chroot -l $@ -- PACKAGER=$(PACKAGER)
 
+add-%:
+	git submodule add https://aur.archlinux.org/$*
+	git commit -m "added $*"
+
 check-outdated:
 	repoctl status -a
 
