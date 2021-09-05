@@ -103,3 +103,6 @@
 [submodule "ros-build-tools"]
 	path = ros-build-tools
 	url = https://aur.archlinux.org/ros-build-tools
+[submodule "yay"]
+	path = yay
+	url = https://aur.archlinux.org/yay.git
