@@ -109,3 +109,6 @@
 [submodule "ogre-1.9"]
 	path = ogre-1.9
 	url = https://aur.archlinux.org/ogre-1.9.git
+[submodule "orocos-kdl"]
+	path = orocos-kdl
+	url = https://aur.archlinux.org/orocos-kdl
