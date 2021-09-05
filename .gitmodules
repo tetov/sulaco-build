@@ -121,3 +121,6 @@
 [submodule "ros-noetic-catkin"]
 	path = ros-noetic-catkin
 	url = https://aur.archlinux.org/ros-noetic-catkin
+[submodule "ros-noetic-cmake-modules"]
+	path = ros-noetic-cmake-modules
+	url = https://aur.archlinux.org/ros-noetic-cmake-modules.git
