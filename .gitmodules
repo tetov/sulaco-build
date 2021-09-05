@@ -118,3 +118,6 @@
 [submodule "python-rospkg"]
 	path = python-rospkg
 	url = https://aur.archlinux.org/python-rospkg
+[submodule "ros-noetic-catkin"]
+	path = ros-noetic-catkin
+	url = https://aur.archlinux.org/ros-noetic-catkin
