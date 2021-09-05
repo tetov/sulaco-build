@@ -115,3 +115,6 @@
 [submodule "python-catkin_pkg"]
 	path = python-catkin_pkg
 	url = https://aur.archlinux.org/python-catkin_pkg.git
+[submodule "python-rospkg"]
+	path = python-rospkg
+	url = https://aur.archlinux.org/python-rospkg
