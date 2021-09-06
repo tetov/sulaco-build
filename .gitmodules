@@ -133,3 +133,6 @@
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin
+[submodule "zoom"]
+	path = zoom
+	url = https://aur.archlinux.org/zoom
