@@ -136,3 +136,6 @@
 [submodule "python-catkin_tools"]
 	path = python-catkin_tools
 	url = https://aur.archlinux.org/python-catkin_tools
+[submodule "spotify"]
+	path = spotify
+	url = https://aur.archlinux.org/spotify
