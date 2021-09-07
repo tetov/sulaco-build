@@ -127,9 +127,6 @@
 [submodule "python-rosdistro"]
 	path = python-rosdistro
 	url = https://aur.archlinux.org/python-rosdistro
-[submodule "python-rosdep"]
-	path = python-rosdep
-	url = https://aur.archlinux.org/python-rosdep
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin
