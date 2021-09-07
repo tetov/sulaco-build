@@ -133,3 +133,6 @@
 [submodule "python-osrf_pycommon"]
 	path = python-osrf_pycommon
 	url = https://aur.archlinux.org/python-osrf_pycommon
+[submodule "python-catkin_tools"]
+	path = python-catkin_tools
+	url = https://aur.archlinux.org/python-catkin_tools
