@@ -130,3 +130,6 @@
 [submodule "zoom"]
 	path = zoom
 	url = https://aur.archlinux.org/zoom
+[submodule "python-osrf_pycommon"]
+	path = python-osrf_pycommon
+	url = https://aur.archlinux.org/python-osrf_pycommon
