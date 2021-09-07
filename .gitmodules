@@ -124,9 +124,6 @@
 [submodule "ros-noetic-cmake-modules"]
 	path = ros-noetic-cmake-modules
 	url = https://aur.archlinux.org/ros-noetic-cmake-modules.git
-[submodule "python-rosdistro"]
-	path = python-rosdistro
-	url = https://aur.archlinux.org/python-rosdistro
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin
