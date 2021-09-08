@@ -139,3 +139,6 @@
 [submodule "spotify"]
 	path = spotify
 	url = https://aur.archlinux.org/spotify
+[submodule "drawio-desktop"]
+	path = drawio-desktop
+	url = https://aur.archlinux.org/drawio-desktop
