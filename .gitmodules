@@ -142,3 +142,6 @@
 [submodule "drawio-desktop"]
 	path = drawio-desktop
 	url = https://aur.archlinux.org/drawio-desktop
+[submodule "ferdi"]
+	path = ferdi
+	url = https://aur.archlinux.org/ferdi
