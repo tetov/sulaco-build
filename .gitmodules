@@ -148,3 +148,6 @@
 [submodule "pnpm"]
 	path = pnpm
 	url = https://aur.archlinux.org/pnpm
+[submodule "mkpasswd"]
+	path = mkpasswd
+	url = https://aur.archlinux.org/mkpasswd
