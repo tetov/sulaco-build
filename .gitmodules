@@ -145,3 +145,6 @@
 [submodule "ferdi"]
 	path = ferdi
 	url = https://aur.archlinux.org/ferdi
+[submodule "pnpm"]
+	path = pnpm
+	url = https://aur.archlinux.org/pnpm
