@@ -154,3 +154,6 @@
 [submodule "protonmail-bridge"]
 	path = protonmail-bridge
 	url = https://aur.archlinux.org/protonmail-bridge
+[submodule "gitleaks"]
+	path = gitleaks
+	url = https://aur.archlinux.org/gitleaks
