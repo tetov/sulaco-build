@@ -223,3 +223,6 @@
 [submodule "gapi-ocaml"]
 	path = gapi-ocaml
 	url = https://aur.archlinux.org/gapi-ocaml
+[submodule "ocaml-lwt"]
+	path = ocaml-lwt
+	url = https://aur.archlinux.org/ocaml-lwt
