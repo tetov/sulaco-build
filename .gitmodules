@@ -160,3 +160,6 @@
 [submodule "pcloud-drive"]
 	path = pcloud-drive
 	url = https://aur.archlinux.org/pcloud-drive
+[submodule "google-drive-ocamlfuse"]
+	path = google-drive-ocamlfuse
+	url = https://aur.archlinux.org/google-drive-ocamlfuse
