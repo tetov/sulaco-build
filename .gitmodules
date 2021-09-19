@@ -175,3 +175,6 @@
 [submodule "ocaml-cryptokit"]
 	path = ocaml-cryptokit
 	url = https://aur.archlinux.org/ocaml-cryptokit
+[submodule "cppo"]
+	path = cppo
+	url = https://aur.archlinux.org/cppo
