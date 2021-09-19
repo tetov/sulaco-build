@@ -199,3 +199,6 @@
 [submodule "ocaml-seq"]
 	path = ocaml-seq
 	url = https://aur.archlinux.org/ocaml-seq
+[submodule "ocaml-luv"]
+	path = ocaml-luv
+	url = https://aur.archlinux.org/ocaml-luv
