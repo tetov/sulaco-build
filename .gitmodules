@@ -190,3 +190,6 @@
 [submodule "ocaml-mmap"]
 	path = ocaml-mmap
 	url = https://aur.archlinux.org/ocaml-mmap
+[submodule "ocaml-react"]
+	path = ocaml-react
+	url = https://aur.archlinux.org/ocaml-react
