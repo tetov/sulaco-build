@@ -181,3 +181,6 @@
 [submodule "ocaml-pcre"]
 	path = ocaml-pcre
 	url = https://aur.archlinux.org/ocaml-pcre
+[submodule "ocaml-sqlite3"]
+	path = ocaml-sqlite3
+	url = https://aur.archlinux.org/ocaml-sqlite3
