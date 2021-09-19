@@ -193,3 +193,6 @@
 [submodule "ocaml-react"]
 	path = ocaml-react
 	url = https://aur.archlinux.org/ocaml-react
+[submodule "ocaml-ppxlib"]
+	path = ocaml-ppxlib
+	url = https://aur.archlinux.org/ocaml-ppxlib
