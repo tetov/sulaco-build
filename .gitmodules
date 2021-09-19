@@ -214,3 +214,6 @@
 [submodule "ocaml-extlib"]
 	path = ocaml-extlib
 	url = https://aur.archlinux.org/ocaml-extlib
+[submodule "ocaml-biniou"]
+	path = ocaml-biniou
+	url = https://aur.archlinux.org/ocaml-biniou
