@@ -211,3 +211,6 @@
 [submodule "ocamlfuse"]
 	path = ocamlfuse
 	url = https://aur.archlinux.org/ocamlfuse
+[submodule "ocaml-extlib"]
+	path = ocaml-extlib
+	url = https://aur.archlinux.org/ocaml-extlib
