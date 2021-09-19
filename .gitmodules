@@ -187,3 +187,6 @@
 [submodule "camlidl"]
 	path = camlidl
 	url = https://aur.archlinux.org/camlidl
+[submodule "ocaml-mmap"]
+	path = ocaml-mmap
+	url = https://aur.archlinux.org/ocaml-mmap
