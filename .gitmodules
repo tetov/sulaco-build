@@ -226,3 +226,6 @@
 [submodule "ocaml-ounit"]
 	path = ocaml-ounit
 	url = https://aur.archlinux.org/ocaml-ounit
+[submodule "ocaml-cryptokit"]
+	path = ocaml-cryptokit
+	url = git@github.com:tetov/ocaml-cryptokit.git
