@@ -178,3 +178,6 @@
 [submodule "cppo"]
 	path = cppo
 	url = https://aur.archlinux.org/cppo
+[submodule "ocaml-pcre"]
+	path = ocaml-pcre
+	url = https://aur.archlinux.org/ocaml-pcre
