@@ -208,3 +208,6 @@
 [submodule "ocaml-ocplib-endian"]
 	path = ocaml-ocplib-endian
 	url = https://aur.archlinux.org/ocaml-ocplib-endian
+[submodule "ocamlfuse"]
+	path = ocamlfuse
+	url = https://aur.archlinux.org/ocamlfuse
