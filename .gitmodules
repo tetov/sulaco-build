@@ -157,3 +157,6 @@
 [submodule "gitleaks"]
 	path = gitleaks
 	url = https://aur.archlinux.org/gitleaks
+[submodule "pcloud-drive"]
+	path = pcloud-drive
+	url = https://aur.archlinux.org/pcloud-drive
