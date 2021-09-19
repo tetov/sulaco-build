@@ -202,3 +202,6 @@
 [submodule "ocaml-luv"]
 	path = ocaml-luv
 	url = https://aur.archlinux.org/ocaml-luv
+[submodule "ocamlnet"]
+	path = ocamlnet
+	url = https://aur.archlinux.org/ocamlnet
