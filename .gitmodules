@@ -226,3 +226,6 @@
 [submodule "ocaml-lwt"]
 	path = ocaml-lwt
 	url = https://aur.archlinux.org/ocaml-lwt
+[submodule "ocaml-ounit"]
+	path = ocaml-ounit
+	url = https://aur.archlinux.org/ocaml-ounit
