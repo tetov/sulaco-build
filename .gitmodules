@@ -172,9 +172,6 @@
 [submodule "ocaml-easy-format"]
 	path = ocaml-easy-format
 	url = https://aur.archlinux.org/ocaml-easy-format
-[submodule "ocaml-cryptokit"]
-	path = ocaml-cryptokit
-	url = https://aur.archlinux.org/ocaml-cryptokit
 [submodule "cppo"]
 	path = cppo
 	url = https://aur.archlinux.org/cppo
