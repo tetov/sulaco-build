@@ -205,3 +205,6 @@
 [submodule "ocamlnet"]
 	path = ocamlnet
 	url = https://aur.archlinux.org/ocamlnet
+[submodule "ocaml-ocplib-endian"]
+	path = ocaml-ocplib-endian
+	url = https://aur.archlinux.org/ocaml-ocplib-endian
