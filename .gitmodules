@@ -166,3 +166,6 @@
 [submodule "ocaml-curl"]
 	path = ocaml-curl
 	url = https://aur.archlinux.org/ocaml-curl
+[submodule "ocaml-xmlm"]
+	path = ocaml-xmlm
+	url = https://aur.archlinux.org/ocaml-xmlm
