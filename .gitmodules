@@ -169,3 +169,6 @@
 [submodule "ocaml-xmlm"]
 	path = ocaml-xmlm
 	url = https://aur.archlinux.org/ocaml-xmlm
+[submodule "ocaml-easy-format"]
+	path = ocaml-easy-format
+	url = https://aur.archlinux.org/ocaml-easy-format
