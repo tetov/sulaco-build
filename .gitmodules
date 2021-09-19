@@ -196,3 +196,6 @@
 [submodule "ocaml-ppxlib"]
 	path = ocaml-ppxlib
 	url = https://aur.archlinux.org/ocaml-ppxlib
+[submodule "ocaml-seq"]
+	path = ocaml-seq
+	url = https://aur.archlinux.org/ocaml-seq
