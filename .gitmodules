@@ -220,3 +220,6 @@
 [submodule "ocaml-yojson"]
 	path = ocaml-yojson
 	url = https://aur.archlinux.org/ocaml-yojson
+[submodule "gapi-ocaml"]
+	path = gapi-ocaml
+	url = https://aur.archlinux.org/gapi-ocaml
