@@ -163,3 +163,6 @@
 [submodule "google-drive-ocamlfuse"]
 	path = google-drive-ocamlfuse
 	url = https://aur.archlinux.org/google-drive-ocamlfuse
+[submodule "ocaml-curl"]
+	path = ocaml-curl
+	url = https://aur.archlinux.org/ocaml-curl
