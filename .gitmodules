@@ -217,3 +217,6 @@
 [submodule "ocaml-biniou"]
 	path = ocaml-biniou
 	url = https://aur.archlinux.org/ocaml-biniou
+[submodule "ocaml-yojson"]
+	path = ocaml-yojson
+	url = https://aur.archlinux.org/ocaml-yojson
