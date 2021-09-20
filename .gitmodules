@@ -232,3 +232,6 @@
 [submodule "standardnotes-desktop"]
 	path = standardnotes-desktop
 	url = https://aur.archlinux.org/standardnotes-desktop
+[submodule "teams"]
+	path = teams
+	url = https://aur.archlinux.org/teams
