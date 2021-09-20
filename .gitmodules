@@ -229,3 +229,6 @@
 [submodule "ocaml-cryptokit"]
 	path = ocaml-cryptokit
 	url = git@github.com:tetov/ocaml-cryptokit.git
+[submodule "standardnotes-desktop"]
+	path = standardnotes-desktop
+	url = https://aur.archlinux.org/standardnotes-desktop
