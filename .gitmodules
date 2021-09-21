@@ -238,3 +238,6 @@
 [submodule "dropbox"]
 	path = dropbox
 	url = https://aur.archlinux.org/dropbox
+[submodule "virtio-win"]
+	path = virtio-win
+	url = https://aur.archlinux.org/virtio-win
