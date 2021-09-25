@@ -24,7 +24,7 @@ pacman.conf:
 	cat pacman.conf.addition >> pacman.conf
 
 pull:
-	git submodule update --remote
+	git submodule update --remote --merge
 
 sign-all-and-update:
 	find $(PKG-REPO) -iname "*.pkg.tar.zst" \
