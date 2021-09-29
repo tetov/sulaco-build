@@ -241,3 +241,6 @@
 [submodule "virtio-win"]
 	path = virtio-win
 	url = https://aur.archlinux.org/virtio-win
+[submodule "rpi-imager"]
+	path = rpi-imager
+	url = https://aur.archlinux.org/rpi-imager
