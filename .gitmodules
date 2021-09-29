@@ -244,3 +244,6 @@
 [submodule "rpi-imager"]
 	path = rpi-imager
 	url = https://aur.archlinux.org/rpi-imager
+[submodule "pishrink-git"]
+	path = pishrink-git
+	url = https://aur.archlinux.org/pishrink-git
