@@ -247,3 +247,6 @@
 [submodule "pishrink-git"]
 	path = pishrink-git
 	url = https://aur.archlinux.org/pishrink-git
+[submodule "librealsense"]
+	path = librealsense
+	url = https://aur.archlinux.org/librealsense
