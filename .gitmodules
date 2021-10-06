@@ -250,3 +250,6 @@
 [submodule "librealsense"]
 	path = librealsense
 	url = https://aur.archlinux.org/librealsense
+[submodule "miniconda3"]
+	path = miniconda3
+	url = https://aur.archlinux.org/miniconda3
