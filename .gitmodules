@@ -253,3 +253,6 @@
 [submodule "miniconda3"]
 	path = miniconda3
 	url = https://aur.archlinux.org/miniconda3
+[submodule "zeal"]
+	path = zeal
+	url = https://aur.archlinux.org/zeal
