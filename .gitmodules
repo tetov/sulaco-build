@@ -259,3 +259,6 @@
 [submodule "bloomrpc"]
 	path = bloomrpc
 	url = https://aur.archlinux.org/bloomrpc
+[submodule "auracle-git"]
+	path = auracle-git
+	url = https://aur.archlinux.org/auracle-git
