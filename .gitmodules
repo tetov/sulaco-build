@@ -256,3 +256,6 @@
 [submodule "zeal"]
 	path = zeal
 	url = https://aur.archlinux.org/zeal
+[submodule "bloomrpc"]
+	path = bloomrpc
+	url = https://aur.archlinux.org/bloomrpc
