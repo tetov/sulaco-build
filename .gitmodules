@@ -262,3 +262,6 @@
 [submodule "auracle-git"]
 	path = auracle-git
 	url = https://aur.archlinux.org/auracle-git
+[submodule "chrome-gnome-shell"]
+	path = chrome-gnome-shell
+	url = https://aur.archlinux.org/chrome-gnome-shell
