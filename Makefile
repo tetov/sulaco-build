@@ -9,8 +9,10 @@ $(PKGS):
 	cd $@ && makechrootpkg -c -r /home/tetov/chroot -l $@ -- PACKAGER=$(PACKAGER)
 
 add-%:
+	auracle buildorder $* || ( echo "Package or deps not found" && false )
 	git submodule add https://aur.archlinux.org/$*
-	git commit -m "added $*"
+	auracle buildorder $* | grep AUR | awk '{print $$(NF-1)}' | xargs -I %% git submodule add https://aur.archlinux.org/%%
+	git commit -m "added $* and deps"
 
 check-outdated:
 	repoctl status -a
@@ -25,6 +27,7 @@ pacman.conf:
 
 pull:
 	git submodule update --remote --merge
+	git commit -m "updated submodules" .
 
 sign-all-and-update:
 	find $(PKG-REPO) -iname "*.pkg.tar.zst" \
